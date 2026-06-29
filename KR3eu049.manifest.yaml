@@ -1,0 +1,313 @@
+canonical_identifier: bkk:krp/KR3eu049/v1
+canonical_location: https://kanripo.org/bkk/KR3eu049/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金匱玉函要略述義
+  identifiers:
+    krp: KR3eu049
+  tags:
+    kr-categories: KR3eu
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eu049.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eu049_000.yaml, hash: 'sha256:01bc26d4aae0a6739c7a804faa8311f5eb44110ec5ce250230db287f6458822c'}
+  - {seq: 1, filename: KR3eu049_001.yaml, hash: 'sha256:7ceb6dc30a44fdde4b04b42eb0650d728fafdecdea722df4669d5b93cc32b3d7'}
+  - {seq: 2, filename: KR3eu049_002.yaml, hash: 'sha256:73b8aa117588f371f3ebec3201d0799abc504a3e2d8db3ed199c00a72d65224a'}
+  - {seq: 3, filename: KR3eu049_003.yaml, hash: 'sha256:50e5cb5c1ada6c4daae41594f673c28ef7574e4364079c89c291bf780293e0d2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eu049_000.markers.yaml, hash: 'sha256:cd117e0fa90531e3fa15995814d81264ac659188d2051212fc7b4a0cf39dd4f8'}
+  - {seq: 1, role: markers, filename: assets/KR3eu049_001.markers.yaml, hash: 'sha256:a8d5f32428ed8dddbc46295ef613cec198cb8fd111579a2028011851d40d2510'}
+  - {seq: 2, role: markers, filename: assets/KR3eu049_002.markers.yaml, hash: 'sha256:e9788a3ff4c38a352b67e16a808d80b111addae85d936859ff36491b9a5a8a81'}
+  - {seq: 3, role: markers, filename: assets/KR3eu049_003.markers.yaml, hash: 'sha256:faa3ee3b4143a06bc52b0adfaf0c6ec4e8d1c173f5cdd7be06e679753034d08a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eu049_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 364
+  label: 題辭
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eu049_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 23286
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eu049_jc_001-d3d4
+    span:
+    - body
+    - 82
+    - 2836
+  label: 臟腑經絡先後病脈證第一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu049_jc_001-d3d5
+    span:
+    - body
+    - 2836
+    - 7406
+  label: 痓濕暍病脈證第二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu049_jc_001-d3d6
+    span:
+    - body
+    - 7406
+    - 8872
+  label: 百合狐惑陰陽毒病證治第三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu049_jc_001-d3d7
+    span:
+    - body
+    - 8872
+    - 10690
+  label: 瘧病脈證並治第四
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu049_jc_001-d3d8
+    span:
+    - body
+    - 10690
+    - 12551
+  label: 中風歷節病脈證並治第五
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu049_jc_001-d3d9
+    span:
+    - body
+    - 12551
+    - 16708
+  label: 血痹虛勞病脈證並治第六
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu049_jc_001-d3d10
+    span:
+    - body
+    - 16708
+    - 19186
+  label: 肺痿肺癰咳嗽上氣病脈證治第七
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu049_jc_001-d3d11
+    span:
+    - body
+    - 19186
+    - 19436
+  label: 奔豚氣病脈證治第八
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu049_jc_001-d3d12
+    span:
+    - body
+    - 19436
+    - 20677
+  label: 胸痹心痛短氣病脈證治第九
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eu049_jc_001-d3d13
+    span:
+    - body
+    - 20677
+    - 23286
+  label: 腹滿寒疝宿食病脈證治第十
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu049_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 19437
+  label: 卷中
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eu049_jc_002-d4d2
+    span:
+    - body
+    - 2
+    - 1805
+  label: 五臟風寒積聚病脈證並治第十一
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu049_jc_002-d4d3
+    span:
+    - body
+    - 1805
+    - 6104
+  label: 痰飲咳嗽病脈證並治第十二
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu049_jc_002-d4d4
+    span:
+    - body
+    - 6104
+    - 6704
+  label: 消渴小便利淋病脈證並治第十三
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu049_jc_002-d4d5
+    span:
+    - body
+    - 6704
+    - 10403
+  label: 水氣病脈證並治第十四
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu049_jc_002-d4d6
+    span:
+    - body
+    - 10403
+    - 13305
+  label: 黃疸病脈證並治第十五
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu049_jc_002-d4d7
+    span:
+    - body
+    - 13305
+    - 15094
+  label: 驚悸吐衄下血胸滿瘀血病脈證治第十六
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu049_jc_002-d4d8
+    span:
+    - body
+    - 15094
+    - 19095
+  label: 嘔吐噦下利病脈證治第十七
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eu049_jc_002-d4d9
+    span:
+    - body
+    - 19095
+    - 19437
+  label: 趺蹶手指臂腫轉筋陰狐疝蛔蟲病脈證治第十九
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu049_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 6810
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eu049_jc_003-d5d2
+    span:
+    - body
+    - 2
+    - 1393
+  label: 婦人妊娠病脈證並治第二十
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu049_jc_003-d5d3
+    span:
+    - body
+    - 1393
+    - 2750
+  label: 婦人產後病脈證治第二十一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu049_jc_003-d5d4
+    span:
+    - body
+    - 2750
+    - 4637
+  label: 婦人雜病脈證並治第二十二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu049_jc_003-d5d5
+    span:
+    - body
+    - 4637
+    - 5554
+  label: 雜療方第二十三
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu049_jc_003-d5d6
+    span:
+    - body
+    - 5554
+    - 6421
+  label: 禽獸魚蟲禁忌並治第二十四
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eu049_jc_003-d5d7
+    span:
+    - body
+    - 6421
+    - 6810
+  label: 果實菜谷禁忌並治第二十五
+  type: section
+  level: 2
+hash: sha256:82fe4f52ad08ec59599ab87d2ce26a3c939ce0c9def1f8ea03f2887be60ee273
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
